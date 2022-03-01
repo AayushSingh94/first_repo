@@ -19,3 +19,5 @@ void main()
     printf("%d",o);
 
 }
+
+i have changing something
