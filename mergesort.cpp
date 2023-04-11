@@ -46,6 +46,6 @@ void display(int arr[],int n){
 int main(){
 int arr[]={9,6,8,2,1,4,54,544,15,41,22,66};
 int r=sizeof(arr)/sizeof(arr[0]);
-mergesort(arr,0,r);
+mergesort(arr,0,r-1);
 display(arr,r);
 }
